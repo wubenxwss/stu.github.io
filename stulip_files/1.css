@@ -1,0 +1,153 @@
+h4,ul,ol,li,button{margin:0;padding:0;}
+h4{font-size:100%;}
+.inner{position:relative;border:1px solid #c5c5c5;background:#fff;overflow:hidden;border-radius:4px;}
+.sites{margin-top:4px;}
+.sites:first-child{margin-top:0;}
+.dh ul{padding:10px 0 0 10px;}
+.dh li{list-style:none;float:left;width:134px;padding:0 10px 10px 0;/* for IE67 */}
+.dh li a{position:relative;display:block;padding:5px 2px 5px 27px;background:#f5f5f5;border-width:0 1px 1px 0;border-style:solid;border-color:#e5e5e5;}
+.dh h4,ul,ol,li,button{margin:0;padding:0;}
+
+.dhtitle,.widgettitle{position:relative;color:#666;min-height:16px;font-weight:700;padding:4px 70px 4px 6px;border-bottom:1px solid #c5c5c5;background:#c4df92;
+background:-webkit-gradient(linear, left top, left bottom, color-stop(0%,#eee), color-stop(100%,#d2d2d2));
+background:-webkit-linear-gradient(top, #eee 0%,#d2d2d2 100%);
+background:linear-gradient(top, #eee 0%,#d2d2d2 100%);
+border-top-left-radius:4px;
+border-top-right-radius:4px;
+}
+
+.dhtitle a{color:#666;}
+.dhtitle small{position:absolute;right:10px;top:6px;color:#666;text-shadow:none;}
+.dhtitle small a{text-decoration:none;color:#666;}
+a{text-decoration:none;color:#333;}
+a img{border:none;}
+
+.ie6 .icon_list b{font-size:14px;}
+.icon_list a:link b{opacity:0.5;}
+.icon_list a:visited b{opacity:1;}
+.icon_list a:hover b{opacity:1;}
+.group:after{content:"";display:block;clear:both;}
+.ie .group{zoom:1;}
+
+.dh li a{padding:5px 2px 5px 5px;}
+.icon_list a{line-height:16px;height:16px;}
+.icon_list b{background:url(ico.png) no-repeat 0 0;width:16px;height:16px;line-height:16px;float:left;margin-right:5px;}
+.icon_youku b{background-position:-16px -0px;}
+.icon_qiyi b{background-position:-32px -0px;}
+.icon_pptv b{background-position:-48px -0px;}
+.icon_sohu b{background-position:-64px -0px;}
+.icon_qq-v b{background-position:-80px -0px;}
+.icon_cntv b{background-position:-96px -0px;}
+.icon_xunlei b{background-position:-112px -0px;}
+.icon_tudou b{background-position:-128px -0px;}
+.icon_ifeng b{background-position:-144px -0px;}
+.icon_letv b{background-position:-160px -0px;}
+.icon_acfun b{background-position:-176px -0px;}
+.icon_baidu b{background-position:-192px -0px;}
+.icon_stu b{background-position:-208px -0px;}
+.icon_youtube b{background-position:-224px -0px;}
+.icon_taobao b{background-position:-240px -0px;}
+.icon_360buy b{background-position:-256px -0px;}
+.icon_joyo b{background-position:-272px -0px;}
+.icon_vancl b{background-position:-288px -0px;}
+.icon_dangdang b{background-position:-304px -0px;}
+.icon_qqbuy b{background-position:-0px -16px;}
+.icon_qqshang b{background-position:-16px -16px;}
+.icon_paipai b{background-position:-32px -16px;}
+.icon_mogu b{background-position:-48px -16px;}
+.icon_mbaobao b{background-position:-64px -16px;}
+.icon_handuyishe b{background-position:-80px -16px;}
+.icon_gome b{background-position:-96px -16px;}
+.icon_xindan b{background-position:-112px -16px;}
+.icon_yixun b{background-position:-128px -16px;}
+.icon_tianmao b{background-position:-144px -16px;}
+.icon_sina b{background-position:-160px -16px;}
+.icon_sina-t b{background-position:-160px -16px;}
+.icon_qzone b{background-position:-176px -16px;}
+.icon_tianya b{background-position:-192px -16px;}
+.icon_renren b{background-position:-208px -16px;}
+.icon_douban b{background-position:-224px -16px;}
+.icon_kaixin001 b{background-position:-240px -16px;}
+.icon_mop b{background-position:-256px -16px;}
+.icon_shiji b{background-position:-272px -16px;}
+.icon_baihe b{background-position:-288px -16px;}
+.icon_face b{background-position:-304px -16px;}
+.icon_twitter b{background-position:-0px -32px;}
+.icon_xinhuanet b{background-position:-16px -32px;}
+.icon_hexun b{background-position:-32px -32px;}
+.icon_nytimes b{background-position:-48px -32px;}
+.icon_qiushi b{background-position:-64px -32px;}
+.icon_huaban b{background-position:-80px -32px;}
+.icon_guoke b{background-position:-96px -32px;}
+.icon_jiandan b{background-position:-112px -32px;}
+.icon_weifeng b{background-position:-128px -32px;}
+.icon_lashou b{background-position:-144px -32px;}
+.icon_wowo b{background-position:-160px -32px;}
+.icon_58 b{background-position:-176px -32px;}
+.icon_hongxiu b{background-position:-192px -32px;}
+.icon_qidian b{background-position:-208px -32px;}
+.icon_zongheng b{background-position:-224px -32px;}
+.icon_xxsy b{background-position:-240px -32px;}
+.icon_jjwxc b{background-position:-256px -32px;}
+.icon_ctrip b{background-position:-272px -32px;}
+.icon_elong b{background-position:-288px -32px;}
+.icon_17u b{background-position:-304px -32px;}
+.icon_qunar b{background-position:-0px -48px;}
+.icon_lvmama b{background-position:-16px -48px;}
+.icon_zbb b{background-position:-32px -48px;}
+.icon_hupu b{background-position:-48px -48px;}
+.icon_ticai b{background-position:-64px -48px;}
+.icon_dajie b{background-position:-80px -48px;}
+.icon_51job b{background-position:-96px -48px;}
+.icon_yingjie b{background-position:-112px -48px;}
+.icon_zhaopin b{background-position:-128px -48px;}
+.icon_cjol b{background-position:-144px -48px;}
+.icon_dianping b{background-position:-160px -48px;}
+.icon_ganji b{background-position:-176px -48px;}
+.icon_zuoche b{background-position:-192px -48px;}
+.icon_rayli b{background-position:-208px -48px;}
+.icon_gmail b{background-position:-224px -48px;}
+.icon_163 b{background-position:-240px -48px;}
+.icon_web-qq b{background-position:-256px -48px;}
+.icon_web-feixin b{background-position:-272px -48px;}
+.icon_shangx b{background-position:-288px -48px;}
+.icon_gongx b{background-position:-304px -48px;}
+.icon_lix b{background-position:-0px -64px;}
+.icon_fax b{background-position:-16px -64px;}
+.icon_yix b{background-position:-32px -64px;}
+.icon_yanx b{background-position:-48px -64px;}
+.icon_zhix b{background-position:-64px -64px;}
+.icon_xinx b{background-position:-80px -64px;}
+.icon_shex b{background-position:-96px -64px;}
+.icon_wenx b{background-position:-112px -64px;}
+.icon_qweibo b{background-position:-128px -64px;}
+.icon_meilishuo b{background-position:-144px -64px;}
+.icon_pengyou b{background-position:-160px -64px;}
+.icon_tengxun b{background-position:-176px -64px;}
+.icon_meituan b{background-position:-192px -64px;}
+.icon_jd b{background-position:-208px -64px;}
+.icon_weixin b{background-position:-224px -64px;}
+.icon_suning b{background-position:-256px -64px;}
+.icon_vip b{background-position:-272px -64px;}
+.icon_xiaomi b{background-position:-288px -64px;}
+.icon_tejia9 b{background-position:-304px -64px;}
+.icon_huawei b{background-position:-0px -80px;}
+.icon_meizu b{background-position:-16px -80px;}
+.icon_numi b{background-position:-32px -80px;}
+.icon_jvmei b{background-position:-48px -80px;}
+.icon_beibei b{background-position:-64px -80px;}
+.icon_onedian b{background-position:-80px -80px;}
+.icon_jvhuasuan b{background-position:-96px -80px;}
+.icon_songshu b{background-position:-112px -80px;}
+.icon_zhihu b{background-position:-128px -80px;}
+.icon_nfzm b{background-position:-144px -80px;}
+.icon_zhihuri b{background-position:-160px -80px;}
+.icon_800 b{background-position:-176px -80px;}
+.icon_kindle b{background-position:-192px -80px;}
+.icon_lagou b{background-position:-208px -80px;} 
+.icon_baisi b{background-position:-224px -80px;} 
+
+
+
+
+
