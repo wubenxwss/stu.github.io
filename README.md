@@ -12,9 +12,13 @@
 ```
 git init 
 ```
-
+上传所有文件：
 ```
 git add .
+```
+或单文件:
+```
+git add Index.html
 ```
 ```
 git commit -m "注释"
