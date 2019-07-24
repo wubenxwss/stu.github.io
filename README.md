@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+﻿#### 学生党难免要经常用学校导航网页，但苦于网页广告过多，前几天有空进行了业余魔改，发布在此
+#### 本网页网址：https://wubenxwss.github.io/stu.github.io/
 
-You can use the [editor on GitHub](https://github.com/wubenxwss/stu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+#### 网站效果：
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20190725021041177.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQyODA3OTI0,size_16,color_FFFFFF,t_70)
+#### 给自己的小Tips
+如何修改然后重新发布呢？
+在`stu.github.io`文件夹右键 Git Bash Here
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+git init 
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+```
+git add .
+```
+```
+git commit -m "注释"
+```
+```
+git push
+```
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wubenxwss/stu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### END
